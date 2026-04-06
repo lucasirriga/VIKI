@@ -1,0 +1,15 @@
+# Ignora o ambiente virtual
+venv/
+
+# Ignora caches do Python
+__pycache__/
+*.pyc
+
+# Ignora modelos TTS lourdos do Piper
+*.onnx
+*.onnx.json
+
+# Ignora arquivos de Cache e Áudio criados durante o uso
+*.wav
+viki_cache.wav
+temp_text.txt
