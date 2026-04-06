@@ -13,3 +13,6 @@ __pycache__/
 *.wav
 viki_cache.wav
 temp_text.txt
+
+# Ignora o arquivo de configuração local do usuário (contém caminhos e preferências pessoais)
+config.json
